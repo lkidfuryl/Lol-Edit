@@ -15,7 +15,8 @@ Siga estos pasos para compilar el codigo abierto.
 
 No recomiendo compilar el proyecto abierto porque puede dar muchos errores, por lo mismo deje el proyecto ya compilado para que solo lo ejecute
 Pasos de ejecucion:
-1. Descargue el .rar
+1. Descargue el repositorio
+2. Extraiga lib.rar
 2. Ejecute el .exe
 3. Pulse el switch para activar las modificaciones
 4. Para abrir el editor puede hacerlo pulsando ctrl+shift+i desde la ventana de league of legends
