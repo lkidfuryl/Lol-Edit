@@ -17,10 +17,10 @@ No recomiendo compilar el proyecto abierto porque puede dar muchos errores, por 
 Pasos de ejecucion:
 1. Descargue el repositorio
 2. Extraiga lib.rar
-2. Ejecute el .exe
-3. Pulse el switch para activar las modificaciones
-4. Para abrir el editor puede hacerlo pulsando ctrl+shift+i desde la ventana de league of legends
-5. Todos los archivos añadidos en la carpeta de plugins @defaut cargaran de inicio junto con el cliente, trate de añadir sus archivos css y js ahi
+3. Ejecute el .exe
+4. Pulse el switch para activar las modificaciones
+5. Para abrir el editor puede hacerlo pulsando ctrl+shift+i desde la ventana de league of legends
+6. Todos los archivos añadidos en la carpeta de plugins @defaut cargaran de inicio junto con el cliente, trate de añadir sus archivos css y js ahi
 
 Para la generacion de bots en la herramienta de entrenamiento se a utilizado porolobby, recuerda revisar su repositorio en caso de que necesites el codigo fuente:
 https://github.com/LeagueOfPoro/PoroLobby
